@@ -1,0 +1,13 @@
+<?php
+if($_GET){
+    // verificacion de datos
+     
+
+}// fin if 
+else{
+    // mensaje de error
+
+}// fin else 
+
+
+?>
